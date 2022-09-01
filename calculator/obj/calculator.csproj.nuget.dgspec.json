@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VS Code Work\\calculator\\calculator.csproj": {}
+    "C:\\VSCode Work\\My Projects\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "C:\\VS Code Work\\calculator\\calculator.csproj": {
+    "C:\\VSCode Work\\My Projects\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS Code Work\\calculator\\calculator.csproj",
+        "projectUniqueName": "C:\\VSCode Work\\My Projects\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "C:\\VS Code Work\\calculator\\calculator.csproj",
+        "projectPath": "C:\\VSCode Work\\My Projects\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\Meu Computador\\.nuget\\packages\\",
-        "outputPath": "C:\\VS Code Work\\calculator\\obj\\",
+        "outputPath": "C:\\VSCode Work\\My Projects\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Meu Computador\\AppData\\Roaming\\NuGet\\NuGet.Config",

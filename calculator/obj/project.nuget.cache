@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tZEfg9m4DzvmYmSQISX7qLToc/GrF+sPd3JRJ0z4P+HZVUFBj/h7bfkQkZVAHGdd0DEtb2mDtFQ7DQgkmiEHVQ==",
+  "dgSpecHash": "7rDIRDkH+adWp0OXsDHo03YiWDOLWlu9SgchczKp9cHP7f1H46uvVY68vyb4Bk9HCUgBM/fjaQC019FXtzdbAw==",
   "success": true,
-  "projectFilePath": "C:\\VS Code Work\\calculator\\calculator.csproj",
+  "projectFilePath": "C:\\VSCode Work\\My Projects\\calculator\\calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
